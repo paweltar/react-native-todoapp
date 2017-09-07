@@ -4,5 +4,6 @@ export default EStyleSheet.create({
   input: {
     padding: 10,
     backgroundColor: '$lightBlue',
+    elevation: 2,
   },
 });
